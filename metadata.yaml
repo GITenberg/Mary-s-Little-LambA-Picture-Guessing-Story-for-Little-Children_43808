@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26213'
     url: http://www.gutenberg.org/2009/agents/26213
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43808#Mary-s-Little-LambA-Picture-Guessing-Story-for-Little-Children
 gutenberg_issued: '2013-09-24'
 gutenberg_type: Text
 identifiers:
